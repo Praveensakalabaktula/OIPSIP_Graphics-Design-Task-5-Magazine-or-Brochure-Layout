@@ -1,0 +1,2 @@
+# OIPSIP_Graphics-Design-Task-5-Magazine-or-Brochure-Layout
+Magazine layout designed for Oipsip Task-5, for Terra Journal, themed The Soil Issue. Includes a cover page, contents spread, a feature article on pottery and ritual, a bold photo essay quote page, an article on healthy soil, and a subscribe page. Uses an earthy green, terracotta, and cream palette. Designed in Figma with a clean, editorial layout.
